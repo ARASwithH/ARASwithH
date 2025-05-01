@@ -1,4 +1,4 @@
-![image](https://github.com/ARASwithH/ARASwithH/blob/main/Tech%20Comp.png)
+![image](https://github.com/ARASwithH/ARASwithH/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 
 # Hi, I'm Arash 👋
 I'm a Computer Science student with a passion for backend development, artificial intelligence, and data analysis. I love transforming ideas into functional systems using Python and other modern technologies. Currently, I'm focusing on building my skills in backend development.
