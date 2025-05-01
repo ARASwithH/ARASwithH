@@ -7,22 +7,24 @@ I'm a Computer Science student with a passion for backend development, artificia
 ## 🔧 Skills and Technologies
 * Programming Languages: Python
 * Backend Development: Django, REST API
-* Data Analysis: Pandas, NumPy, Matplotlib
+* Frontend Development: familiar with HTML/CSS
+* Data Analysis: familiar with Pandas, NumPy, Matplotlib
 * Web Scraping: BeautifulSoup
-* Machine Learning & AI: Scikit-learn, NLTK
+* Machine Learning & AI: familiar with Scikit-learn, NLTK
 * Version Control: Git, GitHub
-* Tools: Postman,Visual Studio Code
+* Tools: Postman, Visual Studio Code, Pycharm
 
 ## 🎓 Projects
-* IMDb 250 Movie Recommender
-A movie recommendation system using web scraping. Scrapes plot summaries from IMDb's Top 250 list and recommends similar movies based on user input.
+### 🎯 Backend & Web
+- **Ticket Booking Website** *(in progress)* – A Django project with API integration and planned Telegram bot
+- [**Social Network**](https://github.com/ARASwithH/Social-Network) – A Django-powered mini social media platform with user authentication, likes, follows, and post feeds
 
-* Chess Game
-A chess game built in Python that implements the logic for a standard chessboard and allows for a two-player game.
+### 🤖 AI & Data Analysis
+- [**Covid Data Analysis**](https://github.com/ARASwithH/Covid_Data_Analysis) – Custom decision tree implementation and comparison with Scikit-learn on real-world COVID data
+- [**Data Analysis Project**](https://github.com/ARASwithH/Data-Analysis) – A collection of exploratory and predictive data analysis scripts
 
-* Six Ships Game
-A Python-based implementation of the classic Battleship game. It’s a two-player game where players try to sink each other's ships using strategic guessing.
+### 🎮 Games
+- [**Chess Game**](https://github.com/ARASwithH/chess_game) – Console-based chess with object-oriented design
+- [**Six Ships Game**](https://github.com/ARASwithH/sixships_game) – A Python strategy game built from scratch
 
-* Data Analysis Projects
-A series of data analysis projects where I analyze various datasets to extract insights.
 
