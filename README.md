@@ -16,7 +16,7 @@ I'm a Computer Science student with a passion for backend development, artificia
 
 ## 🎓 Projects
 ### 🎯 Backend & Web
-- [**Ticket Booking Website**](https://github.com/ARASwithH/Ticket_Shop) *(in progress)*
+- [**Ticket Booking Website**](https://github.com/ARASwithH/Ticket_Shop) *(in progress)* Django-based web application that simulates an online ticket booking system for events .
 - [**Social Network**](https://github.com/ARASwithH/Social-Network) – A Django-powered mini social media platform with user authentication, likes, follows, and post feeds
 
 ### 🤖 AI & Data Analysis
