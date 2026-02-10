@@ -25,7 +25,7 @@ I'm a Computer Science student with a passion for backend development, artificia
 - [**Covid Data Analysis**](https://github.com/ARASwithH/Covid_Data_Analysis) – Custom decision tree implementation and comparison with Scikit-learn on real-world COVID data
 - [**Data Analysis Project**](https://github.com/ARASwithH/Data-Analysis) – Analyzing real-world data using scikit-learn and tokenization.
 - [**Movie Recommender**](https://github.com/ARASwithH/imdb-Recommender) – Movie Recommender that suggest similar movies from the IMDb Top 250 list based on user-input plot summaries.
-- [**City Pathfinding with DFS and A***]([https://github.com/ARASwithH/imdb-Recommender](https://github.com/ARASwithH/City-Pathfinding-with-DFS-and-A-Star)) – This project applies classical AI search algorithms to a real-world urban road network using OpenStreetMap (OSM) data.
+- [**City Pathfinding with DFS and A***](https://github.com/ARASwithH/City-Pathfinding-with-DFS-and-A-Star) – This project applies classical AI search algorithms to a real-world urban road network using OpenStreetMap (OSM) data.
 - [**Deep Learning Exercises**](https://github.com/ARASwithH/Deep-Learning-Exercises) - Personal implementations of the programming exercises from the Deep Learning Specialization by Andrew Ng
 
 ### 🎮 Games
