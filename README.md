@@ -22,6 +22,7 @@ I'm a Computer Science student with a passion for backend development, artificia
 - [**GoTask CLI**](https://github.com/ARASwithH/GoTask-CLI) - GoTask is a simple Command-Line Task Manager written in Go.
 
 ### 🤖 AI & Data Analysis
+- [**Football Video Analysis System**](https://github.com/ARASwithH/Football-Video-Analysis-System) - A comprehensive computer vision system for automatic football (soccer) video analysis
 - [**Covid Data Analysis**](https://github.com/ARASwithH/Covid_Data_Analysis) – Custom decision tree implementation and comparison with Scikit-learn on real-world COVID data
 - [**Data Analysis Project**](https://github.com/ARASwithH/Data-Analysis) – Analyzing real-world data using scikit-learn and tokenization.
 - [**Movie Recommender**](https://github.com/ARASwithH/imdb-Recommender) – Movie Recommender that suggest similar movies from the IMDb Top 250 list based on user-input plot summaries.
