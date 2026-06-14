@@ -10,7 +10,7 @@ I'm a Computer Science student with a passion for backend development, artificia
 * Frontend Development: familiar with HTML/CSS
 * Data Analysis: familiar with Pandas, NumPy, Matplotlib
 * Web Scraping: BeautifulSoup
-* Machine Learning & AI: Familiar with Scikit-learn, Pytorch, core ML & AI concepts, and Deep Learning fundamentals
+* Machine Learning & AI: Familiar with Scikit-learn, Pytorch, Tensorflow, core ML & AI concepts, and Deep Learning fundamentals
 * Version Control: Git, GitHub
 * Tools: Postman, Visual Studio Code, Pycharm
 * Operating Systems: Linux Essentials
