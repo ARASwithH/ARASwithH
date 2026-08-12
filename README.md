@@ -33,5 +33,6 @@ I'm a Computer Science student with a passion for backend development, artificia
 - [**Chess Game**](https://github.com/ARASwithH/chess_game) – Console-based chess with object-oriented design
 - [**Six Ships Game**](https://github.com/ARASwithH/sixships_game) – A Python strategy game built from scratch
 - [**Library Management System**](https://github.com/ARASwithH/Liberary-Prj) - A simple Library Management System developed in Java using Maven.
+- [**Bank Database Management System**](https://github.com/ARASwithH/educational-DB-prj) - This repository contains SQL scripts for creating, populating, and querying a fictional Bank Database System .
 
 
