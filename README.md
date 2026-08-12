@@ -19,7 +19,6 @@ I'm a Computer Science student with a passion for backend development, artificia
 ### Backend & Web
 - [**Ticket Booking Website**](https://github.com/ARASwithH/Ticket_Shop) *(in progress)* Django-based web application that simulates an online ticket booking system for events.
 - [**Social Network**](https://github.com/ARASwithH/Social-Network) – A Django-powered mini social media platform with user authentication, likes, follows, and post feeds.
-- [**GoTask CLI**](https://github.com/ARASwithH/GoTask-CLI) - GoTask is a simple Command-Line Task Manager written in Go.
 
 ### AI & Data Analysis
 - [**Football Video Analysis System**](https://github.com/ARASwithH/Football-Video-Analysis-System) - A comprehensive computer vision system for automatic football (soccer) video analysis
@@ -34,5 +33,6 @@ I'm a Computer Science student with a passion for backend development, artificia
 - [**Six Ships Game**](https://github.com/ARASwithH/sixships_game) – A Python strategy game built from scratch
 - [**Library Management System**](https://github.com/ARASwithH/Liberary-Prj) - A simple Library Management System developed in Java using Maven.
 - [**Bank Database Management System**](https://github.com/ARASwithH/educational-DB-prj) - This repository contains SQL scripts for creating, populating, and querying a fictional Bank Database System .
+- [**GoTask CLI**](https://github.com/ARASwithH/GoTask-CLI) - GoTask is a simple Command-Line Task Manager written in Go.
 
 
